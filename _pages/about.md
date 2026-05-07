@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好，我是北京科技大学的一名研究生
+大家好，我叫王志航，我是一名来自北京科技大学的研究生。
 
 
 我的研究领域包括：
