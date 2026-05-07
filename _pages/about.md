@@ -46,6 +46,8 @@ redirect_from:
 - `Zhihang Wang`, Jiafei Liu, Chia-Wei Lee, Jingli Wu, Gaoshi Li. An analysis on component reliability of (n, k)-star networks, Journal of Supercomputing (2025)(81)626 (SCI, CCF C类)
 
 
+<span class='anchor' id='-ryjx'></span>
+
 
 ### 软著和专利
 ---
