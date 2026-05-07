@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "王志航"
-  avatar           : "D:\\wulihangtian.github.io\\images\\show.png"
+  avatar           : "/images/show.png"
   bio              : "北京科技大学"
   location         : "北京"
   employer         : #"Hefei General Machinery Research Institute"
